@@ -36,7 +36,7 @@ The deployed application would be accessible on the following URL: <BR>
 **Note:** Replace `pXXXXX` with the SCN User ID that you provided during registration.
 
 ## Editing the application
-You can edit this appplication by cloning the Git repository into the SAP Web IDE. Refer to the [SCN blog](http://scn.sap.com/community/developer-center/cloud-platform/blog/2016/04/25/developing-an-angularjs-application-on-the-sap-hana-cloud-platform) for details.
+You can edit this appplication by cloning the Git repository into the SAP Web IDE. Refer to the [SCN blog](http://scn.sap.com/community/developer-center/cloud-platform/blog/2016/05/11/developing-an-angularjs-application-on-the-sap-hana-cloud-platform) for details.
 
 
 
